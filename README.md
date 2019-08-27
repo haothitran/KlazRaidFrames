@@ -1,4 +1,4 @@
-# KlazUnitFrames
+# KlazRaidFrames
 
 A World of Warcraft add-on that adjusts the default Blizzard raid frames.
 
