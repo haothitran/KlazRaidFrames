@@ -5,3 +5,4 @@
 
 Modules\RaidBuffs.lua
 Modules\RaidSize.lua
+Modules\RaidStatusBars.lua
