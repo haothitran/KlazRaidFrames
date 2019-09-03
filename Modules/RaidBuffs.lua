@@ -8,8 +8,9 @@ hooksecurefunc('CompactUnitFrame_UpdateBuffs', function (f)
   for i = 1, #f.buffFrames do
     local buff = f.buffFrames[i]
     if buff and buff:IsShown() then
-      buff.icon:SetTexCoord(0.07, 0.93, 0.07, 0.93)
       buff:SetScale(1)
+      -- flat icon
+      buff.icon:SetTexCoord(0.07, 0.93, 0.07, 0.93)
     end
   end
 end)
@@ -20,8 +21,9 @@ hooksecurefunc('CompactUnitFrame_UpdateDebuffs', function (f)
   for i = 1, #f.debuffFrames do
     local debuff = f.debuffFrames[i]
     if debuff and debuff:IsShown() then
-      debuff.icon:SetTexCoord(0.07, 0.93, 0.07, 0.93)
       debuff:SetScale(1.2)
+      -- flat icon
+      debuff.icon:SetTexCoord(0.07, 0.93, 0.07, 0.93)
     end
   end
 end)
