@@ -4,5 +4,6 @@
 ## Notes: Adjusts the appearance of the default Blizzard raid frames.
 
 Modules\RaidBuffs.lua
+Modules\RaidGroups.lua
 Modules\RaidSize.lua
 Modules\RaidStatusBars.lua
