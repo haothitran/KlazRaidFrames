@@ -10,7 +10,7 @@ hooksecurefunc('CompactUnitFrame_UpdateBuffs', function (f)
     if buff and buff:IsShown() then
       buff:SetScale(1)
       -- flat icon
-      buff.icon:SetTexCoord(0.07, 0.93, 0.07, 0.93)
+      buff.icon:SetTexCoord(.07, .93, .07, .93)
     end
   end
 end)
@@ -23,7 +23,7 @@ hooksecurefunc('CompactUnitFrame_UpdateDebuffs', function (f)
     if debuff and debuff:IsShown() then
       debuff:SetScale(1.2)
       -- flat icon
-      debuff.icon:SetTexCoord(0.07, 0.93, 0.07, 0.93)
+      debuff.icon:SetTexCoord(.07, .93, .07, .93)
     end
   end
 end)
