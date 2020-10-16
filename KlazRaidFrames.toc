@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 90001
 ## Title: Klaz|cff1994ffRaidFrames|r
 ## Author: Klaz
 ## Notes: Adjusts the appearance of the default Blizzard raid frames.
