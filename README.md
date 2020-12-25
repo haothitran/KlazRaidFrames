@@ -8,7 +8,6 @@ There are no in-game options.
 
 - Scale default raid frames beyond default range extremes.
 - Flat textures for status bars.
-- Increase size of buffs and debuffs on default raid frames.
 
 ## Installation
 
