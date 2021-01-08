@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
--- // MODULES / RAID STATUS BARS
+-- // MODULES / STATUS BARS
 --------------------------------------------------------------------------------
+-- flat texture
 
 hooksecurefunc('DefaultCompactUnitFrameSetup', function (f)
   f.healthBar:SetStatusBarTexture(.75, .75, .75)

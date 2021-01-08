@@ -3,6 +3,6 @@
 ## Author: Klaz
 ## Notes: Adjusts the appearance of the default Blizzard raid frames.
 
-Modules\RaidGroups.lua
-Modules\RaidSize.lua
-Modules\RaidStatusBars.lua
+Modules\GroupIndicator.lua
+Modules\Size.lua
+Modules\StatusBars.lua
